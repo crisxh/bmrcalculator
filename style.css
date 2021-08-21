@@ -1,0 +1,29 @@
+header,footer{
+    background-color:plum;
+    
+}
+html, header{
+    margin-left:0;
+    margin-top:0;
+}
+
+header{
+    position:fixed;
+    width:100%;
+}
+/*content{
+    
+}*/
+
+body{
+    padding-top:25%;
+}
+
+#bmrInput{
+    /*height:1000px;*/
+    display:flex;
+    flex-direction:column;
+    max-width:30% ;
+    margin:auto;
+    
+}
